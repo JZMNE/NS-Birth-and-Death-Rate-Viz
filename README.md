@@ -1,4 +1,4 @@
-# Nova Scotia Birth and Death Rate Visualization
+# Nova Scotia Population by County Visualization
 This project visualizes the population growth data for the province of Nova Scotia, Canada. The data is sourced from Statistics Canada, and covers the years 2014 to 2020.
 
 The aim of this project is to provide an easy-to-understand visualization of this data, allowing users to explore and compare poulation growth in various counties over time. The visualization is designed to be accessible to a broad audience, and is optimized for viewing on desktop and mobile devices.
