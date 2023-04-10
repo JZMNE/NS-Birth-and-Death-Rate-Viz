@@ -14,6 +14,7 @@ This project was developed using SQL, Power BI, Excel. The `NSBirthDeathProject.
 To modify or extend the project, simply edit the source files in `NSBirthDeathProject.pbix`. 
 
 # Visualization :chart_with_downwards_trend:
+![Screenshot](https://github.com/JZMNE/NS-Birth-and-Death-Rate-Viz/blob/main/img/county.png)
 
 # License :chart_with_downwards_trend:
 This project is licensed under the MIT License. You are free to use and modify the code as you see fit, provided that you include the license text in any copies or modifications.
