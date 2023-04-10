@@ -9,7 +9,7 @@ To view the visualization, the visualization will load automatically and allow y
 The visualization consists of a line chart showing the birth and death rates over time, with the option to toggle between rates for males, females, or both sexes. There is also a table showing the actual rates for each year and sex.
 
 # Development :chart_with_downwards_trend:
-This project was developed using SQL, Power BI, Excel. The `NSBirthDeathProject.pbix` files can only open on Power BI apps
+This project was developed using SQL, Power BI, Excel. The `NSBirthDeathProject.pbix` files can only open on Power BI.
 
 To modify or extend the project, simply edit the source files in `NSBirthDeathProject.pbix`. 
 
