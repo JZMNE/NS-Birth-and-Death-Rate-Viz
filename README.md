@@ -1,12 +1,12 @@
 # Nova Scotia Birth and Death Rate Visualization
-This project visualizes birth and death rate data for the province of Nova Scotia, Canada. The data is sourced from Statistics Canada, and covers the years 2000 to 2019.
+This project visualizes the population growth data for the province of Nova Scotia, Canada. The data is sourced from Statistics Canada, and covers the years 2014 to 2020.
 
-The aim of this project is to provide an easy-to-understand visualization of this data, allowing users to explore and compare birth and death rates over time. The visualization is designed to be accessible to a broad audience, and is optimized for viewing on desktop and mobile devices.
+The aim of this project is to provide an easy-to-understand visualization of this data, allowing users to explore and compare poulation growth in various counties over time. The visualization is designed to be accessible to a broad audience, and is optimized for viewing on desktop and mobile devices.
 
 # Usage :chart_with_downwards_trend:
 To view the visualization, the visualization will load automatically and allow you to explore the data.
 
-The visualization consists of a line chart showing the birth and death rates over time, with the option to toggle between rates for males, females, or both sexes. There is also a table showing the actual rates for each year and sex.
+The visualization consists of a small multiples line chart showing the population growth in different counties over a period of time. The `.pbix` includes option to toggle between birth and death rates across each counties. There is also a bar chart showing the actual rates for each year.
 
 # Development :chart_with_downwards_trend:
 This project was developed using SQL, Power BI, Excel. The `NSBirthDeathProject.pbix` files can only open on Power BI.
